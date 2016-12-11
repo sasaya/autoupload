@@ -1,0 +1,1 @@
+call auto.bat > %0\..\log.txt 2>&1
